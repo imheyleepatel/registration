@@ -24,6 +24,6 @@
     "promise": "^8.0.3"
   },
   "devDependencies": {
-    "validator": "^11.0.0"
+    "validator": "^13.7.0"
   }
 }
